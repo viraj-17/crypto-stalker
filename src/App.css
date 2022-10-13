@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+  color: #8758ff;
+}
+
+footer {
+  width: 100%;
+  background-color: var(--main-bg);
+  margin-top: auto;
+  margin-bottom: 0;
+}
+footer p {
+  margin: 0;
+  text-align: center;
+  color: #fff;
+  line-height: 5rem;
+  font-size: 1.4rem;
+}
